@@ -5,7 +5,8 @@
 <div align="center">
   <a href="https://github.com/viniciusvilar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusvilar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvilar&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvilar&layout=compact&langs_count=7&theme=dark"/>
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvilar)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
  <div style="display: inline_block"><br>
@@ -23,6 +24,6 @@
   <a href="https://www.instagram.com/vilar.vinicius/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-vilar-575358248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "vilarvilarvinicius@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+ 
   ![Snake animation](https://github.com/viniciusvilar/viniciusvilar/blob/output/github-contribution-grid-snake.svg)
 </div>
