@@ -1,6 +1,6 @@
 ### Olá ⚡
 
-- 🔭 Aluno de Análise e Desenvolvimento de Sistemas (Unifip - Patos) - 3º Período
+- 🔭 Analista e Desenvolvedor de Sistemas
 
 <div align="center">
   <a href="https://github.com/viniciusvilar">
